@@ -1,5 +1,5 @@
 # Google Cloud Vertex AI Samples
-
+Projeto liliti stk 3.6.9 inteligência artificial multimidal impulsodigitalfinanceira@gmail.com
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 Welcome to the Google Cloud [Vertex AI](https://cloud.google.com/vertex-ai/docs/) sample repository.
