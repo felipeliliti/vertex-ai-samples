@@ -1,4 +1,4 @@
-# Google Cloud Vertex AI Samples
+# projeto liliti stk 3.6.9 inteligência artificial multimidal 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
