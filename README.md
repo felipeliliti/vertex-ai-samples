@@ -1,4 +1,4 @@
-# projeto liliti stk 3.6.9 inteligência artificial multimidal 
+# PROJETO ANTI APAGÃO AVANÇADO 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
